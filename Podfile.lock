@@ -1,0 +1,32 @@
+PODS:
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - SwiftCSV (0.5.6)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - SDWebImage (~> 3.8)
+  - SwiftCSV
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftCSV
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  SwiftCSV: efb4a15dd7f2f1212b3d6986f97a3369ff6c5100
+
+PODFILE CHECKSUM: 98dddfc4df7818352e4596919011975ff4b4bd26
+
+COCOAPODS: 1.9.1
